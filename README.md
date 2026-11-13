@@ -51,12 +51,13 @@
 
 ## Featured Projects
 
+- [**PromptPump**](https://github.com/RiteshNipane/PromptPump) - Turn a one-line idea into a production-grade coding prompt, using your own codebase and a local LLM.
 - [**Nyaya-AI**](https://github.com/RiteshNipane/Nyaya-AI-Indian-legal-RAG) - RAG system for Indian law over Supreme Court judgments, Acts of Parliament and the Constitution
 - [**optiSAR**](https://github.com/RiteshNipane/optiSAR) - Satellite data fusion pipeline for deforestation detection
 - [**FootballML**](https://github.com/RiteshNipane/FootballML) - Match winner predictor using XGBoost with SHAP explainability, FastAPI backend and React frontend
 - [**deBUNK**](https://github.com/RiteshNipane/deBUNK) - Background app that detects news on screen and verifies it across sources
 - [**deTOX**](https://github.com/RiteshNipane/deTOX) - Android app with a reel counter overlay and an AI-content blocker
-- [**PromptPump**](https://github.com/RiteshNipane/PromptPump) - Turn a one-line idea into a production-grade coding prompt, using your own codebase and a local LLM.
+
 
 ---
 
