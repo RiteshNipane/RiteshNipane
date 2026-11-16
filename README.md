@@ -69,3 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshNipane&show_icons=true&theme=dark&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshNipane&theme=dark&hide_border=true" height="160" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RiteshNipane/RiteshNipane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid" />
+</p>
