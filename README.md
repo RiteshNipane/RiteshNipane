@@ -51,6 +51,7 @@
 
 ## Featured Projects
 
+- [**HybridCoder**](https://github.com/RiteshNipane/HybridCoder) - HybridCoder is a local-first, multi-model coding assistant for chatting about software and working in a selected project workspace.
 - [**PromptPump**](https://github.com/RiteshNipane/PromptPump) - Turn a one-line idea into a production-grade coding prompt, using your own codebase and a local LLM.
 - [**Nyaya-AI**](https://github.com/RiteshNipane/Nyaya-AI-Indian-legal-RAG) - RAG system for Indian law over Supreme Court judgments, Acts of Parliament and the Constitution
 - [**deBUNK**](https://github.com/RiteshNipane/deBUNK) - Background app that detects news on screen and verifies it across sources
